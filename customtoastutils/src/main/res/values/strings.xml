@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomToastUtils</string>
+    <string name="toast_title_text_view">Success</string>
+    <string name="toast_message_text_view">The image has been added successfully.</string>
+</resources>
